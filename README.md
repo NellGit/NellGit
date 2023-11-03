@@ -15,7 +15,7 @@
 
 
 <div style="display: inline_block"><br>
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,java,php,mysql,postgresql">
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react,java,linux,kotlin,aws,ruby,dotnet,python,php,mysql,postgresql">
 </div>
 
   ##
